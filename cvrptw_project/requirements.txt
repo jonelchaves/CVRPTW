@@ -1,0 +1,6 @@
+# Dependências do projeto
+googlemaps
+pandas
+seaborn
+matplotlib
+ortools
